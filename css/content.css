@@ -1,0 +1,38 @@
+body{
+    background: rgb(255, 255, 255);
+}
+
+h1{
+    color: #121213;
+}
+h2{
+    color: #342d80;
+}
+h3{
+    color: #121213;
+}
+.mytext{
+    color: #1f2126;
+}
+p{
+    color: #1f2126;
+}
+.myblock{
+    background: #342d8025;
+}
+a{
+    text-decoration: none;
+    color: #39309e;
+}
+a:hover{
+    color: #6234ef;
+}
+nav{
+    background: #eee;
+    border: 1px solid #342d80;
+}
+.pic1{
+    width: 25%;
+    margin: 2%;
+    border-radius: 10px;
+}
